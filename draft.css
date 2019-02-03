@@ -280,8 +280,15 @@ html a {
 ul {
 	padding: 0;
 }
+li {
+	text-align: center !important;
+}
 .no-bullet {
 	list-style-type: none;
+	text-align: center;
+}
+.center {
+	display: inline-block;
 }
 .home-padding {
 	padding-top: none;
