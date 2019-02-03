@@ -125,6 +125,10 @@ ul ol {
 	overflow: hidden;
 }
 
+li {
+	float: left;
+}
+
 dt {
 	font-weight: 700;
 }
