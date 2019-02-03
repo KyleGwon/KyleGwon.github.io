@@ -12,22 +12,18 @@
 	<div class="position-fixed">
 		<nav class="navbar" id="bar-color">
 			<ul>
-				<a class="navbar-brand float-left" id="bar-item-color" href="#home"><span class="glyphicon glyphicon-home" aria-hidden="true"></span></a>
-				<a class="navbar-brand float-left nav-anchor" id="bar-item-color" href="#about-me">
-					About Me
-				</a>
-				<a class="navbar-brand float-left nav-anchor" id="bar-item-color" href="#coding-background">
-					Coding Background
-				</a>
-				<div class="dropdown navbar-brand float-left nav-dropdown">
+				<li><a class="navbar-brand float-left" id="bar-item-color" href="#home"><span class="glyphicon glyphicon-home" aria-hidden="true"></span></a></li>
+				<li><a class="navbar-brand float-left nav-anchor" id="bar-item-color" href="#about-me">About Me</a></li>
+				<li><a class="navbar-brand float-left nav-anchor" id="bar-item-color" href="#coding-background">Coding Background</a></li>
+				<li class="dropdown navbar-brand float-left nav-dropdown">
 					<a class="dropbtn" href="#projects">Projects</a>
-					<div class="dropdown-content">
-						<a href="minesweeper.html" class="extra-small">Minesweeper</a>
-						<a href="daycaresorter.html" class="extra-small">Daycaresorter</a>
-						<a href="pokerhand.html" class="extra-small">Pokerhand</a>
-						<a href="website.html" class="extra-small">Website</a>
-					</div>
-				</div>
+					<ul class="dropdown-content">
+						<li><a href="minesweeper.html" class="extra-small">Minesweeper</a></li>
+						<li><a href="daycaresorter.html" class="extra-small">Daycaresorter</a></li>
+						<li><a href="pokerhand.html" class="extra-small">Pokerhand</a></li>
+						<li><a href="website.html" class="extra-small">Website</a></li>
+					</ul>
+				</li>
 				<a class="navbar-brand float-left nav-anchor nav-item-color" onclick="openNav()">Contact Me</a>
 			</ul>
 		</nav>
