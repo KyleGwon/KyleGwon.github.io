@@ -287,9 +287,6 @@ li {
 	list-style-type: none;
 	text-align: center;
 }
-.center {
-	display: inline-block;
-}
 .home-padding {
 	padding-top: none;
 	padding-right: 20px;
