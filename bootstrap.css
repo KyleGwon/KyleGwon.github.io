@@ -1,4 +1,4 @@
-/*!
+!
  * Bootstrap v4.1.3 (https://getbootstrap.com/)
  * Copyright 2011-2018 The Bootstrap Authors
  * Copyright 2011-2018 Twitter, Inc.
@@ -124,7 +124,7 @@ ul ol {
 	list-style-type: none !important;
 	overflow: hidden;
 }
-
+/*PERSONAL LI*/
 li {
 	float: left;
 }
@@ -9064,4 +9064,4 @@ a.text-dark:hover, a.text-dark:focus {
 		border-color: #dee2e6;
 	}
 }
-/*# sourceMappingURL=bootstrap.css.map */
+/*# sourceMappingURL=bootstrap.css.map 
