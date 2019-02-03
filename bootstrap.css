@@ -120,7 +120,9 @@ ul ul,
 ol ul,
 ul ol {
 	margin-bottom: 0;
+	/*PERSONAL EDITS:*/
 	list-style-type: none !important;
+	overflow: hidden;
 }
 
 dt {
