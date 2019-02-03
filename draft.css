@@ -277,7 +277,7 @@ html {
 html a {
 	text-decoration: none !important;
 }
-ul {
+ul .no-bullet{
 	list-style-type: none !important;
 }
 .home-padding {
