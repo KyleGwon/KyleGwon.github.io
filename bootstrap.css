@@ -126,6 +126,8 @@ ul ol {
 }
 /*PERSONAL LI*/
 li {
+	padding: 0;
+	margin: 0;
 	float: left;
 }
 
