@@ -283,6 +283,10 @@ ul {
 li {
 	text-align: center !important;
 }
+nav {
+	border: none !important;
+	border-radius: 0 !important;
+}
 .no-bullet {
 	list-style-type: none;
 	text-align: center;
@@ -691,6 +695,14 @@ a:focus {
 .about-me-div {
 	padding: 50px;
 }
+.navbar-default .navbar-toggle, .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
+	background-color: rgba(0, 0, 0, 0) !important;
+	border: none;
+}
+.navbar-collapse {
+	border: none;
+	box-shadow: none;
+}
 @media (min-width: 1920px){
 	
 	.paragraph-padding {
@@ -796,9 +808,11 @@ a:focus {
 	 .project-row-padding {
 	 	padding-top: 0;
 	 }
+	 li, a {
+		width: 100%;
+	}
 }
 @media (max-width: 576px){
 	.portrait-text {
 		font-size: 75px;
 	}
-}
