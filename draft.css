@@ -703,6 +703,9 @@ a:focus {
 	border: none;
 	box-shadow: none;
 }
+.hide-item {
+	display: none;
+}
 @media (min-width: 1920px){
 	
 	.paragraph-padding {
@@ -810,6 +813,13 @@ a:focus {
 	 }
 	 li, a {
 		width: 100%;
+	}
+	.hide-item {
+		display: block;
+		vertical-align: center;
+	}
+	.hide-home {
+		visibility: hidden !important;
 	}
 }
 @media (max-width: 576px){
