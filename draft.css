@@ -273,7 +273,6 @@ a {
 /*BOOTSTRAP*/
 html {
 	scroll-behavior: smooth;
-	background-color: none;
 }
 html a {
 	text-decoration: none !important;
@@ -329,7 +328,6 @@ li {
 	font-size: 10px !important;
 }
 body {
-	background-color: #7191aa;
 	color: black;
 }
 .unique {
