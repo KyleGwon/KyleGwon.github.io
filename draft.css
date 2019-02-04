@@ -273,6 +273,7 @@ a {
 /*BOOTSTRAP*/
 html {
 	scroll-behavior: smooth;
+	background-color: none;
 }
 html a {
 	text-decoration: none !important;
