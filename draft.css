@@ -372,7 +372,7 @@ body {
 	margin: 0px !important;
 }
 .cust-offset {
-	padding-top: 74px;
+	padding-top: 72px;
 	margin: 0px !important;
 }
 .about-me-padding {
@@ -820,6 +820,9 @@ a:focus {
 	}
 	.hide-home {
 		visibility: hidden !important;
+	}
+	.cust-offset {
+		padding-top: 70px;
 	}
 }
 @media (max-width: 576px){
