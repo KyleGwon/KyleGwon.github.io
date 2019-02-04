@@ -816,7 +816,6 @@ a:focus {
 	}
 	.hide-item {
 		display: block;
-		vertical-align: center;
 	}
 	.hide-home {
 		visibility: hidden !important;
