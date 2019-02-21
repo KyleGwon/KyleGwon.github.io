@@ -844,8 +844,6 @@ a:focus {
 	}
 	.images, .images:hover {
 		width: 95%;
-	}/*
-	.cust-offset-first {
-		padding-top: 1200px;
-	}*/
+	}
+	/* TESTING */
 }
