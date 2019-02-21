@@ -846,6 +846,9 @@ a:focus {
 	.sidenav a {
 		font-size: 15px;
 	}
+	.nav>li>a {
+		padding: 30px !important;
+	}
 }
 @media (max-width: 576px){
 	.portrait-text {
