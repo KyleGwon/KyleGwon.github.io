@@ -841,7 +841,7 @@ a:focus {
 		background-color: none;
 	}
 	.sidenav a {
-		font-size: 15px;
+		font-size: 10px;
 	}
 }
 @media (max-width: 576px){
