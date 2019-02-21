@@ -837,6 +837,9 @@ a:focus {
 	.cust-offset-first {
 		padding-top: 150px;
 	}
+	.learn-more:hover {
+		background-color: none;
+	}
 }
 @media (max-width: 576px){
 	.portrait-text {
