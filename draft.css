@@ -816,6 +816,9 @@ a:focus {
 	 .project-row-padding {
 	 	padding-top: 0;
 	 }
+	 .project-heading {
+	 	padding-top: 25px;
+	 }
 	 li, a {
 		width: 100%;
 	}
