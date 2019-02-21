@@ -826,7 +826,7 @@ a:focus {
 		display: block;
 	}
 	.hide-home {
-		visibility: hidden !important;
+		display: none;
 	}
 	.cust-offset {
 		padding-top: 70px;
