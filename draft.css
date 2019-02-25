@@ -860,6 +860,9 @@ a:focus {
 	.hideitem {
 		padding: 30px !important;
 	}
+	.navbar-brand {
+		margin: 0px;
+	}
 }
 @media (max-width: 576px){
 	.portrait-text {
