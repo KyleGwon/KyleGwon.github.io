@@ -271,6 +271,10 @@ a {
 
 
 /*BOOTSTRAP*/
+
+
+
+
 html, body {
 	width: 100%;
 	height: 100%;
@@ -853,7 +857,7 @@ a:focus {
 	.sidenav a {
 		font-size: 15px;
 	}
-	.nav>li>a {
+	.hideitem {
 		padding: 30px !important;
 	}
 }
