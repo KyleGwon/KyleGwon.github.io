@@ -342,6 +342,15 @@ nav {
 .extra-small {
 	font-size: 10px !important;
 }
+.indented {
+	margin: 2.5%;
+	margin-left: 10%;
+	float: none;
+	text-align: left;
+}
+.indented p {
+	text-align: left;
+}
 body {
 	color: black;
 }
